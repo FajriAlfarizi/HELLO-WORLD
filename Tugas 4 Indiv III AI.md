@@ -23,4 +23,8 @@
     ![Ss 3](https://user-images.githubusercontent.com/92989089/138591662-cff8e168-d254-4def-833d-ec8f8ce8f923.jpg)
 
   - Pada Terminal
-    - 
+    - Membuat program
+    ![Screenshot (87)](https://user-images.githubusercontent.com/92989089/138665970-5dfe9bb0-7af9-4a3c-889b-d442e225e1bd.png)
+    - Kemudian klik kanan pada file dan pilih run code atau (CTRL+ALT+N)
+    - Ketiga output
+    ![Cuplikan layar 2021-10-25 165009 6](https://user-images.githubusercontent.com/92989089/138666466-01bebd6f-084d-426b-9c20-eaf9d4435ac2.png)
